@@ -1,0 +1,23 @@
+slug: "linglingtai"
+name:
+  display: "Ling Ling, Tai"
+  given: "Ling Ling"
+  family: "Tai"
+  alternate: "戴菱蔆"
+role: "PhD Candidate"
+bio: "I am a doctoral researcher in social psychology focusing on how asylum-seekers and refugees adapt to new environments.  My work explores intergroup relations, social attitudes, and questions of belonging, with an interest in how these processes shape real-world outcomes in social and policy contexts.  Before transitioning into academia, I worked in engineering, travel technology, learning & development, and humanitarian organisations, which continues to inform my perspective on social systems and the kinds of research questions I pursue. I am particularly interested in research that is both empirically rigorous and socially responsible, especially when engaging with vulnerable and displaced populations. I’m open to connecting with others working on migration, social psychology, and related policy or research areas."
+status:
+  icon: "☕"
+schema: "hugoblox/author/v1"
+links:
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/linglingtai/"
+    label: "LinkedIn"
+  - icon: "brands/bluesky"
+    url: "https://bsky.app/profile/linglingtai.com"
+    label: "Bluesky"
+ids:
+  orcid: "0009-0005-9737-7748"
+  google_scholar: "qn8M-XAAAAAJ"
+  research_gate: "Ling-Ling-Tai"
+is_owner: true
